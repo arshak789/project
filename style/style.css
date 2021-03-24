@@ -1,0 +1,66 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.products{
+	min-height: 500px;
+	background-color: #3498db;
+	text-align: center;
+}
+
+.products div{
+	display: inline-block;
+	text-align: left;
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+	background-color: #34495e;
+	color: white;
+	padding: 20px;
+}
+.feedback {
+	font-size: 0;
+}
+
+.feedback div{
+	font-size: 15px;
+	display: inline-block;
+	height: 500px;
+	width: 46%;
+	padding: 20px 2%;
+	vertical-align: top;
+}
+
+.photos{
+	background-color: #e67e22;
+}
+
+
+.form{
+	background-color: #2ecc71;
+}
+.main{
+	padding:15px;
+	position: relative;
+	background-color: lightgrey;
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
